@@ -1,0 +1,63 @@
+### setuplist.txt first line must be a comment
++Basics
+ohms.txt Ohm's Law
+resistors.txt Resistors
+cap.txt Capacitor
+induct.txt Inductor
+>lrc.txt LRC Circuit
+voltdivide.txt Voltage Divider
+pot.txt Potentiometer
+potdivide.txt Potentiometer Divider
+-
++A/C Circuits
+capac.txt Capacitor
+inductac.txt Inductor
+capmultcaps.txt Caps of Various Capacitances
+capmultfreq.txt Caps w/ Various Frequencies
+indmultind.txt Inductors of Various Inductances
+indmultfreq.txt Inductors w/ Various Frequencies
+impedance.txt Impedances of Same Magnitude
+res-series.txt Series Resonance
+res-par.txt Parallel Resonance
+-
++Other Passive Circuits
++Series/Parallel
+indseries.txt Inductors in Series
+indpar.txt Inductors in Parallel
+capseries.txt Caps in Series
+cappar.txt Caps in Parallel
+-
++Transformers
+transformer.txt Transformer
+transformerdc.txt Transformer w/ DC
+transformerup.txt Step-Up Transformer
+transformerdown.txt Step-Down Transformer
+longdist.txt Long-Distance Power Transmission
+-
++Switch
+3way.txt 3-Way Light Switches
+4way.txt 3- and 4-Way Light Switches
+-
+wheatstone.txt Wheatstone Bridge
+lrc-critical.txt Critically Damped LRC
+currentsrcelm.txt Current Source
+powerfactor1.txt Power Factor
+grid.txt Resistor Grid
+grid2.txt Resistor Grid 2	`	
+prism.txt Resistor Prism 
+cube.txt Resistor Cube
++Coupled LC's
+coupled1.txt LC Modes (2)
+coupled3.txt LC Modes (3)
+ladder.txt LC Ladder
+-
++Diodes
+diodevar.txt Diode
+diodecurve.txt Diode I/V Curve
+rectify.txt Half-Wave Rectifier
+fullrect.txt Full-Wave Rectifier
+fullrectf.txt Full-Wave Rectifier w/ Filter
+diodelimit.txt Diode Limiter
+-
+-
+blank.txt Blank Circuit
